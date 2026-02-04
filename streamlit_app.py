@@ -4,7 +4,7 @@ import pandas as pd
 from oauth2client.service_account import ServiceAccountCredentials
 
 # ================= CONFIG =================
-SHEET_NAME = "CROWN_SPAN_DATA"
+SHEET_NAME = "crawnspan"
 
 # ================= GOOGLE AUTH =================
 scope = [
